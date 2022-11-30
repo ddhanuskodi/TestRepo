@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rE3zNd+B7O+3ibX6Ft2UQVyjr2MOW+fkez5wBz4HM11XPMTM3AugeGp+meY5xoYByWc0nJIGd7wavTxnTr/WQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\mrsudharson\\source\\repos\\AutoMapper_Sample\\StudentMapperSample\\StudentMapperSample.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "D:\\Users\\mrsudharson\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
